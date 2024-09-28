@@ -8,7 +8,7 @@ Les supports sont présentés ici :
 
 1. [Docker et docker-compose](https://plmlab.math.cnrs.fr/anf2024/grr-docker)
 1. [Kubernetes](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes)
-1. [Helm](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes#helm)
+1. [Helm](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes#d%C3%A9ploiement-de-grr-avec-helm)
 1. [Operators](https://plmlab.math.cnrs.fr/anf2024/operators)
 
 Le projet GRR modifié est versionné [ici](https://plmlab.math.cnrs.fr/anf2024/grr).
