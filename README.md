@@ -7,10 +7,10 @@ Vous trouverez le programme [ici](https://indico.math.cnrs.fr/event/11850/timeta
 Les supports sont présentés ici :
 
 1. [Docker et docker-compose](https://plmlab.math.cnrs.fr/anf2024/grr-docker)
-1. [Kubernetes](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes)
+1. [TP Kubernetes](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes) et [Slides Kubernetes](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes/-/blob/main/slides/kubernetes/kubernetes.pdf)
     1. [Volumes](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes#volumes)
     1. [Healthcheck](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes#healthcheck)
-    1. [Secrets](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes/-/blob/main/slides/secrets.pdf)
+    1. [Secrets](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes/-/blob/main/slides/secrets/secrets.pdf)
 1. [Helm](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes#d%C3%A9ploiement-de-grr-avec-helm)
 1. [Operators](https://plmlab.math.cnrs.fr/anf2024/operators)
 
