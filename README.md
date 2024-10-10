@@ -14,7 +14,7 @@ Les supports sont présentés ici :
 1. [Helm](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes#d%C3%A9ploiement-de-grr-avec-helm)
 1. [Operators](https://plmlab.math.cnrs.fr/anf2024/operators)
 
-Le projet GRR modifié est versionné [ici](https://plmlab.math.cnrs.fr/anf2024/grr).
+Le projet GRR modifié est versionné [ici](https://plmlab.math.cnrs.fr/anf2024/grr). Voir la [description des modifications](https://plmlab.math.cnrs.fr/anf2024/grr/-/tree/v4.3.5-docker/docker/nginx-unit?ref_type=heads).
 
 ## Outils
 
