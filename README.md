@@ -13,6 +13,10 @@ Les supports sont présentés ici :
     1. [Secrets](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes/-/blob/main/slides/secrets/secrets.pdf)
 1. [Helm](https://plmlab.math.cnrs.fr/anf2024/grr-kubernetes#d%C3%A9ploiement-de-grr-avec-helm)
 1. [Operators](https://plmlab.math.cnrs.fr/anf2024/operators)
+1. [Observabilité](https://plmlab.math.cnrs.fr/anf2024/grr-monitoring)
+    1. [Logs](https://plmlab.math.cnrs.fr/anf2024/grr-monitoring/-/blob/main/Logs)
+    1. [Grafana](https://plmlab.math.cnrs.fr/anf2024/grr-monitoring/-/blob/main/Grafana)
+    1. [Alertes](https://plmlab.math.cnrs.fr/anf2024/grr-monitoring/-/blob/main/alertes)
 
 Le projet GRR modifié est versionné [ici](https://plmlab.math.cnrs.fr/anf2024/grr). Voir la [description des modifications](https://plmlab.math.cnrs.fr/anf2024/grr/-/tree/v4.3.5-docker/docker/nginx-unit?ref_type=heads).
 
